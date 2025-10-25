@@ -1,0 +1,32 @@
+/* Fade in on mount */
+.fade-card {
+  opacity: 0;
+  transform: scale(0.90);
+  animation: fadeIn 0.8s ease-in-out forwards;
+  transition: box-shadow 0.6s ease-in-out;
+  box-shadow: 0 0 30px #ffffff;
+}
+
+/* Smooth glow on hover */
+/* .fade-card:hover {
+  box-shadow: 0 0 30px #ffffff;
+} */
+
+/* Optional fade out if removed dynamically */
+.fade-card.fade-out {
+  animation: fadeOut 0.8s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes fadeOut {
+  to {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+}
