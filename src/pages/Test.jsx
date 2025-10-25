@@ -12,7 +12,7 @@ import Image9 from "../assets/9.png";
 import Image10 from "../assets/10.png";
 import Image11 from "../assets/11.png";
 import Image12 from "../assets/12.png";
-import Prabhas from "../assets/PrabhasSuperStar.mp4";
+import Prabhas from "../assets/Prabhas_SuperStar.mp4";
 import { GoMute, GoUnmute } from "react-icons/go";
 
 const Test = () => {
