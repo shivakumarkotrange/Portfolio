@@ -4,9 +4,9 @@ export const educationData = [
   {
     degree:
       "Bachelor of Technology (B.Tech) in Computer Science and Engineering",
-    institution: "XYZ University / College Name",
-    duration: "2020 – 2024",
-    grade: "CGPA: 8.5 / 10",
+    institution: "Lovely Professional University",
+    duration: "2023 – 2027",
+    grade: "CGPA: 7.11 / 10",
     highlights: [
       "Studied core computer science subjects including Data Structures, Algorithms, Operating Systems, and Database Management Systems.",
       "Completed coursework in Artificial Intelligence, Machine Learning, and Cloud Computing.",
@@ -15,10 +15,10 @@ export const educationData = [
     ],
   },
   {
-    degree: "High School (12th Grade) – Science Stream",
-    institution: "ABC Senior Secondary School",
-    duration: "2018 – 2020",
-    grade: "Percentage: 92%",
+    degree: "High School (12th Grade) – Science Stream (MPC)",
+    institution: "Narayana Junior College",
+    duration: "2021 – 2023",
+    grade: "Percentage: 94%",
     highlights: [
       "Specialized in Physics, Chemistry, and Mathematics.",
       "Built a strong foundation in logical thinking and problem-solving.",
@@ -27,9 +27,9 @@ export const educationData = [
   },
   {
     degree: "Secondary School (10th Grade)",
-    institution: "ABC Senior Secondary School",
-    duration: "2016 – 2018",
-    grade: "Percentage: 90%",
+    institution: "City Central School",
+    duration: "2019 – 2021",
+    grade: "Percentage: 100%",
     highlights: [
       "Awarded for academic excellence and participation in inter-school science competitions.",
     ],
