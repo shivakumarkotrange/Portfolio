@@ -30,7 +30,7 @@ export default function PortfolioPage() {
   ];
 
   return (
-    <div className="min-h-screen text-white font-inter bg-gray-800/30">
+    <div className="min-h-screen text-white font-inter">
       <div className="fixed inset-0 -z-10 ">
         <AnimatedGrainyBg
           position="absolute"

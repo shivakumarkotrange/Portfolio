@@ -1,3 +1,4 @@
+import { AnimatedBackground } from "animated-backgrounds";
 import { profileData } from "../data/profileData";
 
 export function HeroSection({ scrollToSection }) {
@@ -7,7 +8,7 @@ export function HeroSection({ scrollToSection }) {
       className="min-h-screen flex items-center justify-center relative overflow-hidden pt-16"
     >
       {/* Animated Background */}
-      <div className="absolute inset-0 bg-gradient-to-br from-gray-900 via-gray-800 to-black">
+      {/* <div className="absolute inset-0 bg-gradient-to-br from-gray-900 via-gray-800 to-black">
         <div className="absolute inset-0 opacity-20">
           {[...Array(50)].map((_, i) => (
             <div
@@ -24,6 +25,18 @@ export function HeroSection({ scrollToSection }) {
             />
           ))}
         </div>
+      </div> */}
+      {/* Contained Animated Background */}
+      <div className="absolute inset-0 z-0">
+        <AnimatedBackground
+          animationName="starryNight"
+          blendMode="difference"
+          style={{
+            width: "100%",
+            height: "100%",
+            position: "absolute",
+          }}
+        />
       </div>
 
       <div className="relative z-10 text-center px-4 sm:px-6 max-w-4xl mx-auto">

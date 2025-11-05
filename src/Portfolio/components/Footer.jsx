@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Github, Globe, Linkedin, Mail } from "lucide-react";
 import { profileData } from "../data/profileData";
 
 export function Footer({ navItems, scrollToSection }) {
@@ -55,6 +55,14 @@ export function Footer({ navItems, scrollToSection }) {
                 className="w-8 h-8 bg-gray-700/50 rounded-lg flex items-center justify-center hover:bg-cyan-500/20 hover:border-cyan-500/50 border border-white/10 transition-all duration-200 group"
               >
                 <Mail className="w-4 h-4 text-white/70 group-hover:text-cyan-400" />
+              </a>
+              <a
+                href={profileData[0].website}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-8 h-8 bg-gray-700/50 rounded-lg flex items-center justify-center hover:bg-cyan-500/20 hover:border-cyan-500/50 border border-white/10 transition-all duration-200 group"
+              >
+                <Globe className="w-4 h-4 text-white/70 group-hover:text-cyan-400" />
               </a>
             </div>
           </div>
