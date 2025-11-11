@@ -56,7 +56,8 @@ export function HeroSection({ scrollToSection }) {
         // 🌌 Desktop: Starry background
         <AnimatedBackground
           animationName="particleNetwork"
-          blendMode="difference"
+          // blendMode="difference"
+          theme="cyberpunk"
           style={{
             width: "100%",
             height: "100%",
