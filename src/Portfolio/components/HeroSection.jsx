@@ -55,7 +55,7 @@ export function HeroSection({ scrollToSection }) {
       {isDesktop ? (
         // 🌌 Desktop: Starry background
         <AnimatedBackground
-          animationName="starryNight"
+          animationName="particleNetwork"
           blendMode="difference"
           style={{
             width: "100%",
