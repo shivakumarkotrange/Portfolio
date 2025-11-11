@@ -1,7 +1,7 @@
 export const profileData = [
   {
-    name: "Ram Gopal Reddy",
-    role: "AI/ML Researcher and Software Developer",
+    name: "Shiva",
+    role: "Software Developer",
     bio: "Passionate about leveraging AI and machine learning to solve complex problems and create innovative solutions.",
     location: "Hyderabad, India",
     email: "redabothularamgopalreddy@gmail.com",
