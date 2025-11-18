@@ -84,7 +84,7 @@ export const projectsData = [
     image: "📄",
     tech: ["JavaScript", "Python", "CSS", "HTML"],
     demo: "#",
-    github: "https://github.com/ramgopal-reddy/Resume_Compare",
+    github: "https://github.com/shivakumarkotrange/Resume_Compare",
     detailedDescription:
       "Resume_Compare is designed to analyze and compare multiple resumes to assist in candidate selection. It leverages both backend (Python) and frontend (JavaScript, CSS, HTML) technologies to process text, extract features, and present comparison results.",
     features: [
@@ -103,7 +103,7 @@ export const projectsData = [
     image: "🤖",
     tech: ["Python"],
     demo: "#",
-    github: "https://github.com/ramgopal-reddy/HealthInsuranceLLM",
+    github: "https://github.com/shivakumarkorange/HealthInsuranceLLM",
     detailedDescription:
       "This project applies large language models to solve tasks in the health insurance domain. It may include claim automation, data extraction from documents, or customer query response using NLP. The system aims to streamline insurance processes.",
     features: [
@@ -122,7 +122,7 @@ export const projectsData = [
     image: "🕵️‍♂️",
     tech: ["Python"],
     demo: "#",
-    github: "https://github.com/ramgopal-reddy/PlagarismModel",
+    github: "https://github.com/shivakumarkorange/PlagarismModel",
     detailedDescription:
       "PlagarismModel is a Python project aimed at analyzing and detecting plagiarism in textual content. It likely compares documents using various similarity-checking algorithms and reports overlaps or copied sections. The tool streamlines the process of validating originality in essays, reports, and assignments.",
     features: [
@@ -142,7 +142,7 @@ export const projectsData = [
     image: "🧬",
     tech: ["Python", "TypeScript", "JavaScript", "HTML", "CSS"],
     demo: "#",
-    github: "https://github.com/ramgopal-reddy/MedicalAI",
+    github: "https://github.com/shivakumarkotrange/MedicalAI",
     detailedDescription:
       "MedicalAI and MedicalAI_UI together provide an end-to-end platform for leveraging artificial intelligence in medical analysis. The backend (MedicalAI) utilizes Python-based models to interpret and diagnose medical data, while the frontend (MedicalAI_UI) delivers a user-friendly, interactive web interface built with TypeScript and JavaScript. This combination allows clinicians and researchers to easily input data and receive insightful, AI-driven predictions or reports.",
     features: [
@@ -162,7 +162,7 @@ export const projectsData = [
     image: "📚",
     tech: ["Jupyter Notebook"],
     demo: "#",
-    github: "https://github.com/ramgopal-reddy/CipherSchools_ML",
+    github: "https://github.com/shivakumarkotrange/CipherSchools_ML",
     detailedDescription:
       "CipherSchools_ML features comprehensive Jupyter Notebooks that demonstrate fundamental and advanced machine learning concepts. Tailored for instructional use, the project covers data preprocessing, model training, and algorithm explanations, making it accessible to learners and enthusiasts. Its primary objective is to provide hands-on ML experience in an easily digestible format.",
     features: [

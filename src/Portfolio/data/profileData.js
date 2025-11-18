@@ -1,12 +1,12 @@
 export const profileData = [
   {
-    name: "Shiva",
+    name: "ShivaKumar Kotrange",
     role: "Software Developer",
     bio: "Passionate about leveraging AI and machine learning to solve complex problems and create innovative solutions.",
     location: "Hyderabad, India",
-    email: "redabothularamgopalreddy@gmail.com",
-    linkedIn: "https://www.linkedin.com/in/ramgopal-reddy",
-    github: "https://www.github.com/ramgopal-reddy",
-    website: "https://www.ramgopalreddy.xyz",
+    email: "shivakumarkotrabge@gmail.com",
+    linkedIn: "https://www.linkedin.com/in/shivakumarkotrange",
+    github: "https://www.github.com/kotrange-shivakumar",
+    website: "https://www.https://shiva-portfolio-ten.vercel.app/",
   },
 ];
